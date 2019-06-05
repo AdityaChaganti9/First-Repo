@@ -3,7 +3,7 @@ class demo {
 	{
 		system.out.println("Hello git");
 system.out.println("Git is very easy to understand", +git);
-system.out.print;m("new changes");
+system.out.print;m("new changes to git");
 	}
 }
 
